@@ -8,10 +8,16 @@ This web app is not yet completely ready to use
  This web app will also contain the data of NGO's in your area 
  # Instructions to run the program:
  1.Get the code on your pc 
- 2.Navigate to pubspec.yaml file 
- 3.Type flutter pub get on terminal and then hit enter
- 4.Now Run flutter project by navigating to main.dart file 
- 5. Type flutter run on terminal. 
- 6. Select chrome option and hit enter. 
+ 
+ 2.Navigate to pubspec.yaml file. 
+ 
+ 3.Type flutter pub get on terminal and then hit enter 
+ 
+ 4.Now Run flutter project by navigating to main.dart file  
+ 
+ 5. Type flutter run on terminal.
+    
+ 6.Select chrome option and hit enter. 
+ 
  7.Now Our project will be Displayed on 
  Chrome just hit refresh and navigate through our website. 
